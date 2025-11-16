@@ -1,0 +1,9 @@
+//
+//  PMProdConfig.xcconfig
+//  Portfolio Manager
+//
+//  Created by Pranay Jadhav on 15/11/25.
+//
+
+// Configuration settings file format documentation can be found at:
+baseURL = https:/$()/35dee773a9ec441e9f38d5fc249406ce.api.mockbin.io
